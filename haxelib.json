@@ -1,0 +1,14 @@
+{
+  "name": "retricon",
+  "url" : "https://github.com/nekonomics/haxe-retricon/",
+  "license": "MIT",
+  "tags": ["openfl", "avatar", "generative"],
+  "description": "Haxe/OpenFL port of node-retricon (create image like GitHub icon).",
+  "version": "1.0.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["nekonomics"],
+  "dependencies": {
+    "openfl": "2.2.2"
+  },
+  "classPath": "Lib/"
+}
